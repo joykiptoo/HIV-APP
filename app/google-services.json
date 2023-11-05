@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "40645751038",
+    "project_id": "hiv-app-96a1d",
+    "storage_bucket": "hiv-app-96a1d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:40645751038:android:e80b472c9f48d014de75af",
+        "android_client_info": {
+          "package_name": "com.app.hivapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAshhP_wGf9IMpVBBk3YYuh4nE_pHVZ1Ms"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:40645751038:android:779d6a3e6a465fcade75af",
+        "android_client_info": {
+          "package_name": "com.example.hivapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAshhP_wGf9IMpVBBk3YYuh4nE_pHVZ1Ms"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
